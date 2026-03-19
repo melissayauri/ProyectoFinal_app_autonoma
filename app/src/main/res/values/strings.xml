@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FinalProyect_apps</string>
+    <string name="name_app">Nombre de la aplicación</string>
+    <string name="name_students">Nombre de los estudiantes</string>
 </resources>
