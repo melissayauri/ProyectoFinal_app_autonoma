@@ -1,4 +1,5 @@
 plugins {
+    id ("com.google.gms.google-services")
     alias(libs.plugins.android.application)
 }
 
@@ -45,4 +46,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("com.airbnb.android:lottie:6.1.0")
+    implementation (platform("com.google.firebase:firebase-bom:34.10.0"))
 }

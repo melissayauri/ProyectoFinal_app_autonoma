@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149154672423",
+    "project_id": "finalproyectoapp-autonoma",
+    "storage_bucket": "finalproyectoapp-autonoma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149154672423:android:9f23d3092314dc55514302",
+        "android_client_info": {
+          "package_name": "com.example.finalproyect_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4JjPDDJvAJvZE46S0f2oyITQuU3zqgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
