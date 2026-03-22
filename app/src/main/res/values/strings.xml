@@ -2,4 +2,19 @@
     <string name="app_name">FinalProyect_apps</string>
     <string name="name_app">Nombre de la aplicación</string>
     <string name="name_students">Nombre de los estudiantes</string>
+    <!--Pantalla home-->
+    <string name="btn_register">Registrar</string>
+    <string name="btn_login">Login</string>
+    <!--Pantalla Registro-->
+    <string name="input_name">Nombre</string>
+    <string name="input_email">Correo electrónico</string>
+    <string name="input_password">Contraseña</string>
+    <string name="input_password1">Repita su contraseña</string>
+    <string name="btn_account">Crear cuenta</string>
+    <!--Pantalla login-->
+    <string name="email_login">Correo Electrónico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="btn_signIn">Iniciar Sesión</string>
+    <!--Menu-->
+    <string name="item_logout">Cerrar Sesión</string>
 </resources>
